@@ -1,5 +1,3 @@
-# Hi, I'm Steven Mendoza a Junior Developer
-
 ## 💻 Tech Stack:
 ### Web Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -20,5 +18,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StevenMZH&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br>
+![](https://github-readme-stats.vercel.app/api?username=StevenMZH&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StevenMZH&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
