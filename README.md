@@ -10,7 +10,11 @@
 ### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=2496ED) 
 ![Django](https://img.shields.io/badge/django_rest-092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+![Django](https://img.shields.io/badge/django_channels-092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white&color=499848) 
+![JWT](https://img.shields.io/badge/JWT-%298729.svg?style=for-the-badge&logo=jsonwebtokens&ogoColor=white&color=black) 
+![OAuth2](https://img.shields.io/badge/OAuth2-%298729.svg?style=for-the-badge&logo=oauth&logoColor=white&color=black) 
+
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
